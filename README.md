@@ -41,9 +41,9 @@
 
 | 课程名字| 视频地址 | github |
 |:-----:|:--------|:-------|
-|[【101】 c#编程] |[B站](https://www.bilibili.com/video/BV1sy4y1u7cw)| 
-|[【102】 c#实践] |[B站](https://www.bilibili.com/video/BV1sy4y1u7cw)| [github](https://github.com/GamesTan/102_CSCodingTrain)
-|[【103】 Unity 基础知识] |[B站](https://www.bilibili.com/video/BV1sy4y1u7cw)| 
+|【101】 c#编程        |[B站](https://www.bilibili.com/video/BV1sy4y1u7cw)| 
+|【102】 c#实践        |[B站](https://www.bilibili.com/video/BV1sy4y1u7cw)| [github](https://github.com/GamesTan/102_CSCodingTrain)
+|【103】 Unity基础知识 |[B站](https://www.bilibili.com/video/BV1sy4y1u7cw)| 
 
 
 ### 其他专题视频
