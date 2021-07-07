@@ -47,7 +47,7 @@
 - 如果您觉得本套教程确实不错，并认为作者的努力值得肯定，可以通过 [B站](https://space.bilibili.com/481436151) 点个关注
 
 ### **赞助支持**
-<p align="center"><img src="https://raw.githubusercontent.com/GamesTan/104_UnityScriptTutorial/master/Pics/wechat.png" width="393"></p>
+<p align="center"><img src="https://github.com/GamesTan/104_UnityScriptTutorial/blob/main/Pics/wechat.png" width="393"></p>
 
 ### **赞助名单**
 - [@shmilylty](https://github.com/shmilylty/)
