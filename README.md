@@ -1,7 +1,7 @@
 # 104 Unity编程基础
 
 ### 其他所有课程
-[所有课程链接地址](https://github.com/GamesTan/GameDevelopTutorials/README.md)
+[所有课程链接地址](https://github.com/GamesTan/GameDevelopTutorials)
 
 ==========================
 
