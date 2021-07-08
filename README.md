@@ -1,13 +1,15 @@
 # 104 Unity编程基础
 
+### 其他所有课程
+[所有课程链接地址](https://github.com/GamesTan/GameDevelopTutorials/README.md)
+
 ==========================
 
 ### 基本信息
 
 - **教程讲师**：[游戏谭](https://space.bilibili.com/481436151)
-- **教程简介**：《Unity编程基础》 
-- **开发环境**：c#语言，Untiy 2019.4.21 或更高版本
-- **开发系统**：Windows 10 64位
+- **教程简介**：《104-Unity编程基础》 
+- **开发环境**：c#语言，Untiy 2019.4.21或更高版本
 - **收录网站**：
 	- [Bilibili 频道](https://space.bilibili.com/481436151/channel/detail?cid=190825&ctype=0) 
 - **课程下载**：
@@ -38,17 +40,13 @@
 
 
 ### 前置课程
-
-| 课程名字| 视频地址 | github |
-|:-----:|:--------|:-------|
-|【101】 c#编程        |[B站](https://www.bilibili.com/video/BV1sy4y1u7cw)| 
-|【102】 c#实践        |[B站](https://www.bilibili.com/video/BV1sy4y1u7cw)| [github](https://github.com/GamesTan/102_CSCodingTrain)
-|【103】 Unity基础知识 |[B站](https://www.bilibili.com/video/BV1sy4y1u7cw)| 
+- [101- c#编程 				](https://github.com/GamesTan/102_CSCodingTrain/Readme/101.md)
+- [102- c#实践   			](https://github.com/GamesTan/102_CSCodingTrain/README.md)
+- [103- Unity基础知识		](https://github.com/GamesTan/102_CSCodingTrain/Readme/103.md)
 
 
-### 其他专题视频
-- [游戏源码赏析](https://space.bilibili.com/481436151/channel/detail?cid=186768&ctype=0)
-
+### 其他所有课程
+[所有课程链接地址](https://github.com/GamesTan/GameDevelopTutorials/README.md)
 
 ### 奖励作者
 - 如果您觉得本套教程确实不错，并认为作者的努力值得肯定，可以通过 [B站](https://space.bilibili.com/481436151) 点个关注
